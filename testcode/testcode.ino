@@ -8,3 +8,4 @@ void loop(){
   Serial.println(analogRead(thermiPin));
   delay(1000);
 }
+
